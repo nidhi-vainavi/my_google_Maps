@@ -1,0 +1,22 @@
+*{
+    padding: 0%;
+}
+
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBGRwAx9VZKGXjEqvKl_ZMwxMMmCudbvKLWGmhmggM9DOEk2YLDO0RuIktru5pmsH_Z4&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    color: rgb(90, 124, 90);
+}
+
+#map{
+    border: 5px solid black;
+    width: 98vw;
+    height: 500px;
+    border-radius: 10px;
+}
